@@ -9,40 +9,52 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: Europe/Berlin
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Marcel Bruckner # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: >- # used by seo meta and the atom feed
+  Hi there, I'm a master's graduate in 
+  <a href="https://www.tum.de/en/studies/degree-programs/detail/informatics-games-engineering-master-of-science-msc">Informatics: Games Engineering</a> 
+  at 
+  <a href="https://www.in.tum.de/en/in/cover-page/">TUM</a>, Germany.
+  My interests are 
+  <a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Brucknem/CDN/main/master-thesis.pdf">Computer Vision and Deep Reinforcement Learning</a>
+  with a passion for maintanable and future-proof code. I work as a 
+  <a href="https://www.cqse.eu/de/company/team/marcel-bruckner/">Software Consultant</a> 
+  at 
+  <a href="https://www.cqse.eu/de/">CQSE</a>,
+  a great company focused on 
+  <a href="https://www.cqse.eu/en/teamscale/overview/">Software Intelligence</a>.
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Personal website of Marcel Bruckner
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://marcelbruckner.github.io"
 
 github:
-  username: github_username # change to your github username
+  username: MarcelBruckner # change to your github username
 
-twitter:
-  username: twitter_username # change to your twitter username
+# twitter:
+#  username: twitter_username # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Marcel Bruckner
+  email: mbruckner94@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    # - https://twitter.com/username # change to your twitter homepage
+    - https://github.com/MarcelBruckner # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/marcel-bruckner
 
 google_site_verification: # fill in to your verification string
 
@@ -70,19 +82,19 @@ theme_mode: # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn:
+img_cdn: https://raw.githubusercontent.com/Brucknem/CDN/main
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /me_square.jpg
 
 # boolean type, the global switch for TOC in posts.
 toc: true
 
 comments:
-  active: # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+  active: disqus # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   disqus:
-    shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+    shortname: brucknem-github-io-1 # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
   # utterances settings › https://utteranc.es/
   utterances:
     repo: # <gh-username>/<repo>
