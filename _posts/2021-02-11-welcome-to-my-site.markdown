@@ -7,4 +7,5 @@ tags: welcome
 pin: true
 ---
 
-# For infos about me, see my [About](/about) site!
+> For infos about me, see my [About](/about) site!
+{: .prompt-tip }
