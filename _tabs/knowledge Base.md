@@ -5,5 +5,5 @@ order: 2
 ---
 
 
-> Visit my [personal knowledge base](https://publish.obsidian.md/marcelbruckner) 💡
+> Visit my [personal knowledge base](https://zettelkasten.marcelbruckner.info) 💡
 {: .prompt-tip }
