@@ -5,21 +5,62 @@ date: 2023-11-15 17:00:00 +0100
 categories: Reisen
 tags: travel reisen
 pin: false
+media_content: /chirpy/2023-11-15-thailand
 ---
 
-Schreibe mir einen lebendigen Reisebericht für eine 21-tägige Backpacking-Reise durch Thailand. Wir sind Marcel und Sybille. Wir starteten am 15.11. Die Route war: 
 
+# Bangkok - Die pulsierende Metropole
+Unsere Backpacking-Reise durch Thailand begann am 15.11. mit einem aufregenden Flug mit Lufthansa nach Bangkok. Nach einem langen aber angenehmen Flug landeten wir am 16.11. gegen 15:00 Uhr Ortszeit und spürten sofort die Energie dieser pulsierenden Metropole.
+
+![Blick aus dem Flugzeug auf die Bangkoker Skyline]({{site.img_cdn}}{{page.media_content}}/Bangkok/flug.jpg)
+_Blick aus dem Flugzeug auf die Bangkoker Skyline_
+
+Unser Hotel für die ersten beiden Nächte war das [Dewan Hotel](https://www.booking.com/searchresults.de.html?aid=311092&label=dewan-bangkok-Qb5RjqxOI4zP3AVMJIzriQS387643590418%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-261131654727%3Alp1004234%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YfpWGnRw6lOGikFuHv4HshY&gclid=Cj0KCQiAv8SsBhC7ARIsALIkVT0O98RQ9f5sNzSFYdnXH4IR7NmvkPyj9jevANyLQ0_hz51P9-XFr0oaApznEALw_wcB&highlighted_hotels=1511211&redirected=1&city=-3414440&hlrd=no_dates&source=hotel&expand_sb=1&keep_landing=1&sid=2b0b274b9404744eacf8b9147c80dfa1), das sich an der berühmten Khao San Road befindet. Die Khao San Road ist ein lebhafter Ort, der Backpacker aus der ganzen Welt anzieht. Hier pulsiert das Leben Tag und Nacht, gespickt mit Street-Food-Ständen, Restaurants, Bars, Souvenirgeschäften und bunten Straßenhändlern.
+
+In der ersten Nacht tauchten wir voll und ganz in das aufregende Nachtleben der Khao San Road ein. Musik dröhnte aus den zahlreichen Bars, Menschenmengen feierten und es schien, als würde die Zeit stillstehen. Es gibt keinen besseren Ort, um die thailändische Gastfreundschaft und das weltoffene Flair zu erleben.
+
+![Khao San Road bei Nacht]({{site.img_cdn}}{{page.media_content}}/Bangkok/khao_san_road.jpg)
+_Khao San Road bei Nacht_
+
+Am zweiten Tag begaben wir uns auf eine abenteuerliche Busfahrt nach Bang Sue, um unser Nachtzugticket nach Chiang Mai bei 12go Asia abzuholen. Der Verkehr war hier wild und chaotisch - ein wahrer Kulturschock, der uns aber gleichzeitig faszinierte. Die Fahrt hinterließ uns ein Gefühl der Erschöpfung, aber wir kehrten dennoch voller Vorfreude auf das kommende Abenteuer zurück zur Khao San Road, wo wir erneut eine großartige Zeit hatten.
+
+![Park bei der Bang Sue Central Station]({{site.img_cdn}}{{page.media_content}}/Bangkok/bang_sue_station.jpg)
+_Park bei der Bang Sue Central Station_
+
+Am dritten Tag entschieden wir uns für eine entspanntere Aktivität und fuhren mit dem Taxiboot zum berühmten Icon Siam. Dieses Einkaufszentrum ist ein beeindruckendes architektonisches Meisterwerk und bietet eine breite Palette an Luxusgeschäften, Restaurants und Unterhaltungsmöglichkeiten. Wir schlenderten durch die Geschäfte, genossen die luxuriöse Atmosphäre und probierten köstliche lokale und internationale Gerichte.
+
+![Das Icon Siam im Sonnenuntergang]({{site.img_cdn}}{{page.media_content}}/Bangkok/icon_siam.jpg)
+_Das Icon Siam im Sonnenuntergang_
+
+Am Abend hieß es dann Abschied nehmen vom Dewan Hotel, da es Zeit war, den Nachtzug von der Bang Sue Central Station nach Chiang Mai zu nehmen. Mit dem Taxi erreichten wir die Station rechtzeitig und waren gespannt auf die bevorstehende Zugfahrt in den Norden Thailands.
+
+Unsere Reise durch Thailand verspricht noch viele weitere aufregende Abenteuer, und wir sind bereit, jeden Moment voll auszukosten.
+
+---
+
+# Wie ist dieser Post entstanden?
+
+Ich nutze ChatGPT um diesen Post aus einer Liste von Stichpunkten zu generieren.
+Das passiert über den folgenden Prompt.
+Die Bilder sind danach von Hand hinzugefügt.
+
+> **Prompt an ChatGPT:**  
+Schreibe mir einen lebendigen Reisebericht für eine 21-tägige Backpacking-Reise durch Thailand. Wir sind Marcel und Sybille. Wir starteten am 15.11. Die Route war: 
 # Bangkok
 - Flug nach Bangkok mit Lufthansa
 - Abflug Abends am 15.11.
 - Ankunft am 16.11. um ca. 15:00
-- 2 Nächte in Bangkok im Dewan Hotel an der Khao San Road
-- 1. Nacht: Khao San Road 
-- 2. Tag: Mit dem Bus nach Bang Sue um das Nachtzugticket von 12go Asis zu holen. Völlig fertig Abends wegen dem wilden Verkehr.
-- 2. Nacht: Trinken auf der Khao San Road
-- 3. Tag: Taxiboot fahren zu Icon Siam. Tag im Icon Siam.
-- Abends dann auschecken aus dem Dewan Hotel und Fahrt mit dem Taxi zur Bang Sue Central Station um den Nachtzug nach Chiang Mai zu nehmen
+- 2 Nächte blieben wir in Bangkok im Dewan Hotel an der Khao San Road
+- Die erste Nacht verbrachten wir auf der Khao San Road. Erkläre hier bitte die Khao San Road.
+- Am zweiten Tag (17.11.2023) fuhren wir mit dem Bus nach Bang Sue um das Nachtzugticket von 12go Asia zu holen. Wir waren völlig fertig Abends wegen dem wilden Verkehr.
+- Auch die zweite Nacht (17.11.2023) waren wir auf der Khao San Road. Wir haben dort getrunken und hatten eine gute Zeit.
+- Am dritten Tag (18.11.2023) fuhren wir mit dem Taxiboot zum Icon Siam. Den Tag verbrachten wir im Icon Siam. Erkläre hier bitte das Icon Siam.
+- Abends mussten wir dann auschecken aus dem Dewan Hotel und fuhren mit dem Taxi zur Bang Sue Central Station um den Nachtzug nach Chiang Mai zu nehmen
+...
+{: .prompt-info }
 
+> Noch zu schreiben:
+# Chiang Mai
 - Fahrt mit dem Nachtzug nach Chiang Mai am 18.11., Ankunft am 19.11, 3 Nächte in Chiang Mai
 - Flug über Bangkok nach Phuket, 4 Nächte in Kamala Beach
 - Fahrt mit der Fähre von Phuket über Koh Phi Phi nach Ao Nang in Krabi
@@ -27,3 +68,10 @@ Schreibe mir einen lebendigen Reisebericht für eine 21-tägige Backpacking-Reis
 - Fahrt mit dem Bus nach Surat Thani, Überfahrt mit der Fähre nach Koh Samui
 - 5 Nächte auf Koh Samui
 - Flug über Bangkok von Koh Samui nach Deutschland
+# Phuket
+...
+# Krabi
+...
+# Koh Samui
+...
+{: .prompt-warning }
