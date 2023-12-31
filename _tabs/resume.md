@@ -3,14 +3,14 @@ title: Résumé
 icon: fas fa-book-open
 order: 0
 toc: true
-cqse_link: '<td><a href="https://www.cqse.eu/" target="_blank"><img src="/Resume/cqse.svg"/></a></td>'
-providentia_link: '<td><a href="https://innovation-mobility.com/projekt-providentia/" target="_blank"><img src="/Resume/providentia.png"/></a></td>'
-tum_link: '<td><a href="https://www.cit.tum.de/cit/startseite/" target="_blank"><img src="/Resume/tum.png"/></a></td>'
-fortiss_link: '<td><a href="https://www.fortiss.org/" target="_blank"><img src="/Resume/fortiss.png"/></a></td>'
-ag_link: '<td><a href="https://www.allgaeu-gymnasium.de/" target="_blank"><img src="/Resume/ag.png"/></a></td>'
-lindenbergschule_link: '<td><a href="https://gs-aufdemlindenberg.de/" target="_blank"><img src="/Resume/lindenbergschule.png"/></a></td>'
-blitz_link: '<td><a href="https://www.blitz.club/" target="_blank"><img src="/Resume/blitz.png"/></a></td>'
-parktheater_link: '<td><a href="https://www.parktheater-kempten.de" target="_blank"><img src="/Resume/parktheater.png"/></a></td>'
+cqse_link: '<td><a href="https://www.cqse.eu/" target="_blank"><img src="/Resume/cqse.svg" alt="Logo der CQSE GmbH"/></a></td>'
+providentia_link: '<td><a href="https://innovation-mobility.com/projekt-providentia/" target="_blank"><img src="/Resume/providentia.png" alt="Logo des Providentia++ Projekts"/></a></td>'
+tum_link: '<td><a href="https://www.cit.tum.de/cit/startseite/" target="_blank"><img src="/Resume/tum.png" alt="Logo der TUM"/></a></td>'
+fortiss_link: '<td><a href="https://www.fortiss.org/" target="_blank"><img src="/Resume/fortiss.png" alt="Logo der fortiss GmbH"/></a></td>'
+ag_link: '<td><a href="https://www.allgaeu-gymnasium.de/" target="_blank"><img src="/Resume/ag.png" alt="Logo des Allgäu Gymnasiums"/></a></td>'
+lindenbergschule_link: '<td><a href="https://gs-aufdemlindenberg.de/" target="_blank"><img src="/Resume/lindenbergschule.png" alt="Logo der Lindenbergschule"/></a></td>'
+blitz_link: '<td><a href="https://www.blitz.club/" target="_blank"><img src="/Resume/blitz.png" alt="Logo des Blitz Clubs"/></a></td>'
+parktheater_link: '<td><a href="https://www.parktheater-kempten.de" target="_blank"><img src="/Resume/parktheater.png" alt="Logo des Parktheater"/></a></td>'
 ---
 
 ## 👨‍💻 Relevant work experience
