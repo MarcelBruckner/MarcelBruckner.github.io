@@ -86,7 +86,7 @@ img_cdn: https://raw.githubusercontent.com/MarcelBruckner/marcelbruckner.github.
 posts_cdn: https://raw.githubusercontent.com/MarcelBruckner/marcelbruckner.github.io/main/_data/_posts
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://raw.githubusercontent.com/MarcelBruckner/CDN/main/me_square.jpg
+avatar: /me_square.jpg
 
 # boolean type, the global switch for TOC in posts.
 toc: true
