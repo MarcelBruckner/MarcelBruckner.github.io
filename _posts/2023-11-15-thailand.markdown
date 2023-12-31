@@ -1,0 +1,29 @@
+---
+layout: post
+title: "Thailand 2023"
+date: 2023-11-15 17:00:00 +0100
+categories: Reisen
+tags: travel reisen
+pin: false
+---
+
+Schreibe mir einen lebendigen Reisebericht für eine 21-tägige Backpacking-Reise durch Thailand. Wir sind Marcel und Sybille. Wir starteten am 15.11. Die Route war: 
+
+# Bangkok
+- Flug nach Bangkok mit Lufthansa
+- Abflug Abends am 15.11.
+- Ankunft am 16.11. um ca. 15:00
+- 2 Nächte in Bangkok im Dewan Hotel an der Khao San Road
+- 1. Nacht: Khao San Road 
+- 2. Tag: Mit dem Bus nach Bang Sue um das Nachtzugticket von 12go Asis zu holen. Völlig fertig Abends wegen dem wilden Verkehr.
+- 2. Nacht: Trinken auf der Khao San Road
+- 3. Tag: Taxiboot fahren zu Icon Siam. Tag im Icon Siam.
+- Abends dann auschecken aus dem Dewan Hotel und Fahrt mit dem Taxi zur Bang Sue Central Station um den Nachtzug nach Chiang Mai zu nehmen
+
+- Fahrt mit dem Nachtzug nach Chiang Mai am 18.11., Ankunft am 19.11, 3 Nächte in Chiang Mai
+- Flug über Bangkok nach Phuket, 4 Nächte in Kamala Beach
+- Fahrt mit der Fähre von Phuket über Koh Phi Phi nach Ao Nang in Krabi
+- 6 Nächte in Ao Nang, Krabi
+- Fahrt mit dem Bus nach Surat Thani, Überfahrt mit der Fähre nach Koh Samui
+- 5 Nächte auf Koh Samui
+- Flug über Bangkok von Koh Samui nach Deutschland
