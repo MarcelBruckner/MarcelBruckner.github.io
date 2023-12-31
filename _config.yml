@@ -82,7 +82,7 @@ theme_mode: # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: https://raw.githubusercontent.com/MarcelBruckner/marcelbruckner.github.io/main
+img_cdn: https://raw.githubusercontent.com/MarcelBruckner/marcelbruckner.github.io/main/_data
 posts_cdn: https://raw.githubusercontent.com/MarcelBruckner/marcelbruckner.github.io/main/_data/_posts
 
 # the avatar on sidebar, support local or CORS resources
