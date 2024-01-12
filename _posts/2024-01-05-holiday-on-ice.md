@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HOLIDAY on ICE - No Limits"
+title: "HOLIDAY on ICE - No Limits ⛸️"
 date: 2024-01-05 19:00:00 +0100
 categories: Events
 tags: events

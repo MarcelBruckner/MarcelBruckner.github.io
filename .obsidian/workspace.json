@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "6eeef9a68cc634b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8e7cc536945a00c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "001bab5df6483ba3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-01-11-tarzan.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "12ab49141779f5cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ca1a62c6afd9e5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb3cf1feb5a17b5d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1c0acdc398559c65",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "012cebcab89f1b88",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e56a0107b0423b0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6dcd7087bf18a58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c3976b27407f4a9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2024-01-11-tarzan.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "57b2c085b920d7cb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/2024-01-11-tarzan.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4eef83629d29e9bc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5897fe54e492967a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2024-01-11-tarzan.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "001bab5df6483ba3",
+  "lastOpenFiles": [
+    "_posts/2024-01-05-holiday-on-ice.md",
+    "_posts/2024-01-11-tarzan.md",
+    "_posts/2023-11-15-thailand.md",
+    "_posts/2021-02-11-welcome-to-my-site.md",
+    "_posts/2024-"
+  ]
+}
