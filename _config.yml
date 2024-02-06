@@ -82,11 +82,11 @@ theme_mode: # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: https://raw.githubusercontent.com/MarcelBruckner/marcelbruckner.github.io/main/_data
-posts_cdn: https://raw.githubusercontent.com/MarcelBruckner/marcelbruckner.github.io/main/_data/_posts
+# img_cdn: https://raw.githubusercontent.com/MarcelBruckner/marcelbruckner.github.io/main
+# img_cdn: http://127.0.0.1
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /me_square.jpg
+avatar: /assets/me_square.jpg
 
 # boolean type, the global switch for TOC in posts.
 toc: true
