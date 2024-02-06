@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Demo gegen Rechts (Kempten) 🪧"
+title: "🪧 Demo gegen Rechts (Kempten)"
 date: 2024-02-03 14:30:00 +0100
 categories: Demos
 tags: demos

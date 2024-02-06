@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Demo gegen Rechts (München) 🪧"
+title: "🪧 Demo gegen Rechts (München)"
 date: 2024-01-21 15:00:00 +0100
 categories: Demos
 tags: demos
