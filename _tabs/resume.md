@@ -19,6 +19,11 @@ parktheater_link: '<td><a href="https://www.parktheater-kempten.de" target="_bla
  
 > Deutsch: <https://resume.marcelbruckner.info/marcel/deutsch>
 
+<iframe src="https://resume.marcelbruckner.info/marcel/english" style="width:100%; height: 80vh"></iframe>
+
+
+---
+
 ## 👨‍💻 Relevant work experience
 
 <table width="100%"><colgroup><col width="25%"/><col/><col width="15%"/></colgroup>
