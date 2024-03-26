@@ -13,6 +13,12 @@ blitz_link: '<td><a href="https://www.blitz.club/" target="_blank"><img src="/as
 parktheater_link: '<td><a href="https://www.parktheater-kempten.de" target="_blank"><img src="/assets/Resume/parktheater.png" alt="Logo des Parktheater"/></a></td>'
 ---
 
+## Dynamic PDF Versions
+
+> English: <https://resume.marcelbruckner.info/marcel/english>
+ 
+> Deutsch: <https://resume.marcelbruckner.info/marcel/deutsch>
+
 ## 👨‍💻 Relevant work experience
 
 <table width="100%"><colgroup><col width="25%"/><col/><col width="15%"/></colgroup>
