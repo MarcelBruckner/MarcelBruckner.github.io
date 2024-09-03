@@ -8,7 +8,7 @@ pin: false
 image: /assets/posts/2024-03-01-af-kissamos/animal-rescue-volunteer-450x300.jpg
 ---
 
-> [](https://afkissamos.gr/)
+> <https://afkissamos.gr/>
 {: .prompt-tip }
 
 ## Animal Friends Kissamos: Engagement für das Wohl der Tiere in Westkreta
@@ -37,5 +37,5 @@ Diese Zusammenarbeit zeigt, wie grenzübergreifende Kooperation das Leben vieler
 
 Durch die Bereitstellung von Pflege und einem temporären Zuhause in Deutschland erleichtern wir nicht nur die Transition der Tiere in ein neues Leben, sondern stärken auch das Bewusstsein für die Bedeutung von Tierschutz und Adoption auf internationaler Ebene.
 
-> [](https://afkissamos.gr/)
+> <https://afkissamos.gr/>
 {: .prompt-tip }
