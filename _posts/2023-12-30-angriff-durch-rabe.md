@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🐦‍⬛ Angriff durch einen Raben"
+title: ""
 date: 2023-12-30 09:00:00 +0100
 categories: random
 tags: random
