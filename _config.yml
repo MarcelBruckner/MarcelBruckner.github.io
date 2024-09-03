@@ -118,7 +118,7 @@ avatar: /assets/me_square.jpg
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-cdn:
+cdn: https://raw.githubusercontent.com/MarcelBruckner/marcelbruckner.github.io/main
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
