@@ -8,7 +8,7 @@ pin: false
 image: /assets/posts/2024-04-24-hundefplegestelle-hugo/IMG-20240425-WA0025-2.jpg
 ---
 
-> </posts/af-kissamos>
+> [AF Kissamos](/posts/af-kissamos)
 {: .prompt-tip }
 
 Am 24. April 2024 durfte Hugo seinen ersten Tag in Deutschland bei uns verbringen, um dort sanft anzukommen. Da wir ihn nur übergangsweise beherbergen konnten, war sein Aufenthalt auf eine Nacht begrenzt. Bereits am darauffolgenden Tag, dem 25. April, wurde er von seiner eigentlichen Pflegestelle abgeholt, wo er nun auf ein liebevolles, dauerhaftes Zuhause wartet.
