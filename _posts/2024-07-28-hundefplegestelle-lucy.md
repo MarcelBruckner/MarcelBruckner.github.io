@@ -11,6 +11,9 @@ image: /assets/posts/2024-07-28-hundefplegestelle-lucy/20240806_194626(0).jpg
 > [AF Kissamos](/posts/af-kissamos)
 {: .prompt-tip }
 
+
+Am 28.07.2024 haben wir der kleinen Lucy ein Zuhause zum Ankommen geschenkt. Am 07.08.2024 hat sie dann ihr endgültiges Zuhause gefunden.
+
 ![](/assets/posts/2024-07-28-hundefplegestelle-lucy/20240729_154448.jpg)
 ![](/assets/posts/2024-07-28-hundefplegestelle-lucy/20240729_200150.jpg)
 ![](/assets/posts/2024-07-28-hundefplegestelle-lucy/20240729_201027.jpg)
